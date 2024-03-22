@@ -68,4 +68,7 @@
     stroke-dasharray: 125.6;
     transform: rotate(-90deg);
   }
-  
+
+  .featured-item{
+    background-image: url(../../../assets/bg-image36.jpg);
+}
