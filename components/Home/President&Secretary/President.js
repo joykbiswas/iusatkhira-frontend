@@ -2,6 +2,7 @@
 import { speechGet } from "@/lib/BuilderAPI";
 import Image from "next/image";
 import img1 from "@/assets/presedent.jpg";
+import { MdOutlineMenuBook } from "react-icons/md";
 import React, { useEffect, useState } from "react";
 
 const President = () => {
@@ -41,6 +42,7 @@ const President = () => {
                   {item.title}
                 </h2>
                 <h3 className="text-xl text-center">{item.description}</h3>
+                <button className=" flex justify-center items-center gap-2  scale-100 cursor-pointer rounded  px-5 py-2  font-semibold text-white transition-all duration-200 hover:scale-110   bg-cyan-500 hover:bg-blue-900" ><MdOutlineMenuBook className="text-xl"/>সম্পূর্ণ পড়ুন </button>
               </div>
             ))}
         </div>
