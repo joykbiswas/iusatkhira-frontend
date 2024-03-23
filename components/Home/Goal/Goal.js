@@ -11,7 +11,7 @@ const Goal = () => {
         <FaStar className="text-2xl" />
         <hr className="w-44 border-black" />
       </div>
-      <div className="pb-12 space-y-4 mb-[450px]">
+      <div className="pb-12 space-y-4 ">
       <h3>
         ১। আগত ছাত্রছাত্রী , শিক্ষক কর্মকর্তা সকলের মধ্যে পারস্পারিক সৌহার্দ্য ও
         ভ্রাতৃত্ব স্থাপন ।
