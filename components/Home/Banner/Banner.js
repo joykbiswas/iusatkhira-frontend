@@ -11,6 +11,8 @@ import img6 from "@/assets/banner-6.jpg";
 import img7 from "@/assets/banner-7.jpg";
 import img8 from "@/assets/banner-8.jpg";
 import img9 from "@/assets/banner-9.jpg";
+import { MdMenuBook } from "react-icons/md";
+import { GrGallery } from "react-icons/gr";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
@@ -24,17 +26,17 @@ import Image from "next/image";
 
 export default function Banner() {
   const progressCircle = useRef(null);
-  const progressContent = useRef(null);
+  // const progressContent = useRef(null);
   const onAutoplayTimeLeft = (s, time, progress) => {
     progressCircle.current.style.setProperty("--progress", 1 - progress);
-    progressContent.current.textContent = `${Math.ceil(time / 1000)}s`;
+    // progressContent.current.textContent = `${Math.ceil(time / 1000)}s`;
   };
   return (
     <>
       <div className="featured-item bg-fixed ">
-        <div className="flex max-w-screen-xl mx-auto gap-5 px-10 pb-12 ">
+        <div className="md:flex max-w-screen-xl mx-auto gap-5 px-10 pb-12 ">
           {/* left side */}
-          <div className="h-[470px] w-2/3">
+          <div className="h-[470px] w-full md:w-2/3">
             <Swiper
               spaceBetween={30}
               centeredSlides={true}
@@ -125,14 +127,14 @@ export default function Banner() {
 
               <div className="autoplay-progress" slot="container-end">
                 <svg viewBox="0 0 48 48" ref={progressCircle}>
-                  <circle cx="24" cy="24" r="20"></circle>
+                  {/* <circle cx="24" cy="24" r="20"></circle> */}
                 </svg>
-                <span ref={progressContent}></span>
+                {/* <span ref={progressContent}></span> */}
               </div>
             </Swiper>
           </div>
           {/* Right side */}
-          <div className="w-1/3 shadow-lg">
+          <div className="w-full md:w-1/3 shadow-lg">
             {/* Search field */}
 
             <form class="max-w-lg mx-auto mt-2 pb-4">
@@ -180,13 +182,13 @@ export default function Banner() {
                 </button>
               </div>
               <div className="mx-3">
-                <button className="w-full border py-4 bg-green-500 text-white font-semibold scale-100 cursor-pointer px-3  transition-all duration-200 hover:scale-110">
-                  অ্যাডমিশন/ভর্তি তথ্য
+                <button className="flex justify-center items-center gap-6  w-full border py-4 bg-green-500 text-white font-semibold scale-100 cursor-pointer px-3  transition-all duration-200 hover:scale-110">
+                <MdMenuBook className="text-xl" />অ্যাডমিশন/ভর্তি তথ্য
                 </button>
               </div>
               <div className="mx-3">
-                <button className="w-full border py-4 bg-green-500 text-white font-semibold scale-100 cursor-pointer px-3  transition-all duration-200 hover:scale-110">
-                  ফটো/গ্যালারি
+                <button className="flex justify-center items-center gap-12  w-full border py-4 bg-green-500 text-white font-semibold scale-100 cursor-pointer px-3  transition-all duration-200 hover:scale-110">
+                <GrGallery className="text-xl"/>ফটো/গ্যালারি
                 </button>
               </div>
               {/* নোটিশ বোর্ড section */}

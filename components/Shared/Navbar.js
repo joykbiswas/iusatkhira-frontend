@@ -50,7 +50,7 @@ const Navbar = () => {
             </li>
             <li className="group flex  cursor-pointer flex-col">
               {/* dropdown */}
-              <div className="dropdown dropdown-hover flex">
+              <div className="dropdown dropdown-hover flex z-50">
                 <div>
                   <div tabIndex={0} role="button" className="">
                     কমিটি
@@ -78,7 +78,7 @@ const Navbar = () => {
               <span className="mt-[2px] h-[3px]  w-[0px] rounded-full bg-sky-500 transition-all duration-300 group-hover:w-full"></span>
             </li>
             <li className="group flex  cursor-pointer flex-col">
-              <div className="dropdown dropdown-hover flex">
+              <div className="dropdown dropdown-hover flex z-50">
                 <div>
                   <div tabIndex={0} role="button" className="">
                     শিক্ষার্থীর তথ্য
@@ -90,6 +90,7 @@ const Navbar = () => {
                     <li className="hover:bg-blue-900">
                       <a>প্রাক্তন শিক্ষার্থীর</a>
                     </li>
+                    <hr />
                     <li className="hover:bg-blue-900">
                       <a>অ্যাঁধায়নরত শিক্ষার্থীর</a>
                     </li>
