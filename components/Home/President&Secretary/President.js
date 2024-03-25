@@ -1,7 +1,6 @@
 "use client";
 import { speechGet } from "@/lib/BuilderAPI";
 import Image from "next/image";
-import img1 from "@/assets/presedent.jpg";
 import { MdOutlineMenuBook } from "react-icons/md";
 import React, { useEffect, useState } from "react";
 

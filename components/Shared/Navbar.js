@@ -6,6 +6,7 @@ import { useState } from "react";
 import { useRef } from "react";
 import { useEffect } from "react";
 import { IoMdArrowDropdown } from "react-icons/io";
+import Link from "next/link";
 
 const Navbar = () => {
   const [dropDownState, setDropDownState] = useState(false);
@@ -25,8 +26,7 @@ const Navbar = () => {
   }, []);
 
   return (
-   
-      <div className="bg-blue-950 border-b-8 border-blue-500">
+    <div className="bg-blue-950 border-b-8 border-blue-500">
       <nav className="max-w-screen-xl mx-auto flex items-center justify-between  py-2 text-white">
         <div className="scale-100 cursor-pointer rounded-2xl px-3 py-2 text-xl font-semibold text-white transition-all duration-200 hover:scale-110">
           <h2 className="pl-5 pb-2">সঙ্গবদ্ধ সংঘ</h2>
@@ -57,14 +57,20 @@ const Navbar = () => {
                   </div>
                   <ul
                     tabIndex={0}
-                    className="dropdown-content z-[1] menu mt-1 shadow bg-blue-950  w-52 "
+                    className="dropdown-content z-[1] menu mt-1 shadow bg-blue-950 text-white  w-52 "
                   >
-                    <li className="hover:bg-blue-900">
-                      <a>উপদেষ্টা পর্ষদ</a>
+                    <li className="hover:bg-blue-900 text-white">
+                      <Link
+                        href="/team_category/advisory-board"
+                        className="text-white"
+                      >
+                       উপদেষ্টা পর্ষদ
+                      </Link>
+                     
                     </li>
                     <hr />
                     <li className="hover:bg-blue-900">
-                      <a>কার্যনির্বাহী কমিটি</a>
+                      <Link href="/team_category/executive-committee" class="dropdown-link">কার্যনির্বাহী কমিটি</Link>
                     </li>
                     <hr />
                     <li className="hover:bg-blue-900">

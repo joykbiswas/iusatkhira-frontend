@@ -1,0 +1,393 @@
+[
+  {
+    "_id": 1,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Dr.-Mizanoor-Rahman-150x150.jpg",
+    "name": "ড. মোঃ মিজানূর রহমান",
+    "title": "অধ্যাপক",
+    "department": "হিসাববিজ্ঞান ও তথ্য পদ্ধতি",
+    "joinDate": "",
+    "permanentAddress": {
+      "village": "ছনকা",
+      "post-office": "ঘোনা",
+      "upazila": "সাতক্ষীরা সদর",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "কুষ্টিয়া সদর, কুষ্টিয়া।",
+    "email": "drmrahman@ais.iu.ac.bd",
+    "phone": "০১৭৫৮-৩২৪৮৮১"
+  },
+  {
+    "_id": 2,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Dr.-Solaiman--239x300.jpg",
+    "name": "ড. মোঃ সোলায়মান",
+    "title": "অধ্যাপক",
+    "department": "দাওয়াহ অ্যান্ড ইসলামিক স্টাডিজ",
+    "joinDate": "২৭/০৫/১৯৯২ ইং",
+    "permanentAddress": {
+      "village": "কাশিমাড়ি",
+      "post-office": "কাশিমাড়ি",
+      "upazila": " শ্যামনগর",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "হাউজিং এস্টেট (আবাসিক), কুষ্টিয়া সদর, কুষ্টিয়া।",
+    "email": "solaimaniub@gmail.com",
+    "phone": "০১৭১১-২৮২৯৭৭"
+  },
+  {
+    "_id": 3,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Dr.-Toriq-300x247.jpg",
+    "name": "ড. আ. ছ. ম. তরীকুল ইসলাম",
+    "title": "অধ্যাপক",
+    "department": "দাওয়াহ অ্যান্ড ইসলামিক স্টাডিজ",
+    "joinDate": "",
+    "permanentAddress": {
+      "village": "চুপড়িয়া",
+      "post-office": "বলাডাঙ্গা",
+      "upazila": "সাতক্ষীরা সদর",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "কুষ্টিয়া সদর, কুষ্টিয়া।",
+    "email": "drtoriq@dawah.iu.ac.bd",
+    "phone": "০১৭৭১-৩৮৩৩৮৩"
+  },
+  {
+    "_id": 4,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Dr.-Arshaful-Alam.jpg",
+    "name": "ড. মুহাম্মাদ আশরাফুল",
+    "title": "অধ্যাপক",
+    "department": "আল-হাদিস অ্যান্ড ইসলামিক স্টাডিজ",
+    "joinDate": "০৩/০৯/১৯৯৮ ইং",
+    "permanentAddress": {
+      "village": "বালিয়াখালী",
+      "post-office": "নাসিমাবাদ",
+      "upazila": "আশাশুনি",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "ঝিনুক টাওয়ার, পুরাতন ডিসি কোর্ট, ঝিনাইদহ সদর, ঝিনাইদহ।",
+    "email": "drashrafiuk@gmail.com",
+    "phone": "০১৭১২-০০১১২৬"
+  },
+  {
+    "_id": 5,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Dr.-Tapon-Kumar.jpg",
+    "name": "ড. তপন কুমার জোদ্দার",
+    "title": "অধ্যাপক",
+    "department": "ইনফরমেশন অ্যান্ড কমিউনিকেশন টেকনোলজি",
+    "joinDate": "০৯/১০/১৯৯৯ ইং",
+    "permanentAddress": {
+      "village": "হরিনগর",
+      "post-office": "হরিনগর",
+      "upazila": "শ্যামনগর",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "হাউজিং এস্টেট (আবাসিক), কুষ্টিয়া সদর, কুষ্টিয়া।",
+    "email": "tkice@iu.ac.bd",
+    "phone": "০১৭৪৬-৪৮২৯৬৪"
+  },
+  {
+    "_id": 6,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Sharfaraz-Nawaz.jpg",
+    "name": "এ. এস. এম. শরফরাজ নওয়াজ",
+    "title": "অধ্যাপক",
+    "department": "ব্যবস্থাপনা",
+    "joinDate": "",
+    "permanentAddress": {
+      "village": "বালিয়াডাঙ্গা",
+      "post-office": "গুরুগ্রাম",
+      "upazila": "দেবহাটা",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "sarfarazn2006@yahoo.com",
+    "phone": "০১৭১১-৩৫৯৫০২"
+  },
+  {
+    "_id": 7,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Dr.-Akter-Hossain.jpg",
+    "name": "ড. মোঃ আকতার হুসাইন",
+    "title": "অধ্যাপক",
+    "department": "আল-হাদিস অ্যান্ড ইসলামিক স্টাডিজ",
+    "joinDate": "৩১/১২/২০০২ ইং",
+    "permanentAddress": {
+      "village": "ভুরুলিয়া",
+      "post-office": "ভুরুলিয়া",
+      "upazila": "শ্যামনগর",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "dr.aktariubd@yahoo.com",
+    "phone": "০১৯১২-২৫৬৫৪৩"
+  },
+  {
+    "_id": 8,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Dr.-Sheikh-Shahinur-Rahman.jpg",
+    "name": "ড. শেখ শাহীনুর রহমান",
+    "title": "সহযোগী অধ্যাপক",
+    "department": "ফলিত পুষ্টি ও খাদ্য প্রযুক্তি",
+    "joinDate": "২০১০ ইং",
+    "permanentAddress": {
+      "village": "পাটকেলঘাটা",
+      "post-office": "পাটকেলঘাটা",
+      "upazila": "তালা",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "ইসলামী বিশ্ববিদ্যালয় টিচার্স কোয়াটার।",
+    "email": "shahin@anft.iu.ac.bd",
+    "phone": "০১৭১৬-৮৯৯২৭৭"
+  },
+  {
+    "_id": 9,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Dr.-Azizul-Islam.jpg",
+    "name": "ড. মোঃ আজিজুল ইসলাম",
+    "title": " সহযোগী অধ্যাপক",
+    "department": "বায়োটেকনোলজি অ্যান্ড জেনেটিক ইঞ্জিনিয়ারিং",
+    "joinDate": "সেপ্টেম্বর, ২০১৩ ইং",
+    "permanentAddress": {
+      "village": "কাকবাসিয়া",
+      "post-office": "আনুলিয়া",
+      "upazila": " আশাশুনি",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "azizbge.iu@gmail.com",
+    "phone": "০১৭১৮-৬৪১০২৫"
+  },
+  {
+    "_id": 10,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Anjum-Ara.jpg",
+    "name": "আঞ্জুমান আরা",
+    "title": "সহযোগী অধ্যাপক",
+    "department": "আইন",
+    "joinDate": "",
+    "permanentAddress": {
+      "village": "নলতা",
+      "post-office": "নলতা মোবারক নগর",
+      "upazila": "কালিগঞ্জ",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "",
+    "phone": " ০১৭১২-৫৫৪৭২১"
+  },
+  {
+    "_id": 11,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Mujahidul-Islam-.jpg",
+    "name": "মোঃ মোজাহিদুল ইসলাম",
+    "title": "সহযোগী অধ্যাপক",
+    "department": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং",
+    "joinDate": "১৮/০৪/২০১০ ইং",
+    "permanentAddress": {
+      "village": "এল্লার চর",
+      "post-office": "",
+      "upazila": "সাতক্ষীরা সদর",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "m_mojahidul@cse.iu.ac.bd",
+    "phone": " ০১৯১৪-৭৭৮৫০০"
+  },
+  {
+    "_id": 12,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Sutap-Kumar-300x300.jpg",
+    "name": "সুতাপ কুমার ঘোষ",
+    "title": "সহযোগী অধ্যাপক",
+    "department": "ফিন্যান্স অ্যান্ড ব্যাংকিং",
+    "joinDate": "",
+    "permanentAddress": {
+      "village": "মির্জাপুর",
+      "post-office": "পাটকেলঘাটা",
+      "upazila": "তালা",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "sutapghosh@fiba.iu.ac.bd",
+    "phone": "০১৭২২-২৬২০৪৮"
+  },
+  {
+    "_id": 13,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Yasin-Ali-Pal-300x300.jpg",
+    "name": "মোঃ ইয়াছিন আলী পাড়",
+    "title": "সহযোগী অধ্যাপক",
+    "department": " পরিসংখ্যান",
+    "joinDate": "",
+    "permanentAddress": {
+      "village": "মুহাম্মাদ নগর",
+      "post-office": "",
+      "upazila": "কালিগঞ্জ",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "yali@isrt.ac.bd",
+    "phone": "০১৯২৫-২৪১৫৫১"
+  },
+  {
+    "_id": 14,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Robiul-Islam-300x200.jpg",
+    "name": "মোঃ রবিউল ইসলাম",
+    "title": "সহযোগী অধ্যাপক",
+    "department": "বায়োমেডিকেল অ্যান্ড জেনেটিক ইঞ্জিনিয়ারিং",
+    "joinDate": "১৫/০৭/২০১৮ ইং",
+    "permanentAddress": {
+      "village": "",
+      "post-office": "",
+      "upazila": "শ্যামনগর",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "rabinub@gmail.com",
+    "phone": "০১৭১৮-৮৬০০১৯"
+  },
+  {
+    "_id": 15,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/SAVE_20210804_195652-300x300.jpg",
+    "name": "মোছাঃ ফেরদৌসী আক্তার",
+    "title": "সহযোগী অধ্যাপক",
+    "department": "ইংরেজি",
+    "joinDate": "",
+    "permanentAddress": {
+      "village": "",
+      "post-office": "",
+      "upazila": "কলারোয়া",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "ferdousiaktar71@yahoo.com",
+    "phone": "০১৯২৪-৫৭৩০৯৯"
+  },
+  {
+    "_id": 16,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/IMG_20210803_185813-174x300.jpg",
+    "name": "মোছাঃ শারমিন আক্তার সুমি",
+    "title": "সহযোগী অধ্যাপক",
+    "department": "পরিসংখ্যান",
+    "joinDate": "",
+    "permanentAddress": {
+      "village": "মুহাম্মাদ নগর",
+      "post-office": "",
+      "upazila": "কালিগঞ্জ",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "sumyju@yahoo.com",
+    "phone": "০১৭১৭৬৯২২৫৬"
+  },
+  {
+    "_id": 17,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Shayam-Sundar-240x300.jpg",
+    "name": "শ্যাম সুন্দর সরকার",
+    "title": "সহযোগী অধ্যাপক",
+    "department": "সমাজকল্যাণ",
+    "joinDate": "১৫/০৭/২০১৮ ইং",
+    "permanentAddress": {
+      "village": "পাটকেলঘাটা",
+      "post-office": "পাটকেলঘাটা",
+      "upazila": "তালা",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "shyamdu75@gmail.com",
+    "phone": "০১৭৫২-৭০৪৬৭৫"
+  },
+  {
+    "_id": 18,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Sheikh-Shofiqul-Islam.jpg",
+    "name": "শেখ শফিকুল ইসলাম",
+    "title": "ডেপুটি লাইব্রেরিয়ান",
+    "department": "কেন্দ্রীয় লাইব্রেরী",
+    "joinDate": "",
+    "permanentAddress": {
+      "village": "দেবহাটা",
+      "post-office": "দেবহাটা",
+      "upazila": "দেবহাটা",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "",
+    "phone": "০১৯১৮-২৯২০৪৯"
+  },
+  {
+    "_id": 19,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/IMG_20210811_232441-262x300.jpg",
+    "name": "মোঃ আবু মুছা",
+    "title": "উপ-রেজিস্টার, ধর্মতত্ত্ব ও ইসলামী শিক্ষা অনুষদ",
+    "department": "",
+    "joinDate": "২২.১১.১৯৯২",
+    "permanentAddress": {
+      "village": "কাশিমাড়ি",
+      "post-office": "কাশিমাড়ি",
+      "upazila": "শ্যামনগর",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": " আলহেরা পাড়া, বাইপাস মোড়, ঝিনাইদহ।",
+    "email": "mdabumusa.iu@gmail.com",
+    "phone": "০১৭১২-৬৪২৮৪৫"
+  },
+  {
+    "_id": 20,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/FB_IMG_1627903600403.jpg",
+    "name": "মোঃ রাশিদুজ্জামান খান (টুটুল)",
+    "title": "সহকারী রেজিস্টার",
+    "department": "তথ্য প্রকাশনা ও জনসংযোগ অফিস",
+    "joinDate": " ১৮-০৯-২০১০",
+    "permanentAddress": {
+      "village": "টাউন শ্রীপুর",
+      "post-office": "টাউন শ্রীপুর",
+      "upazila": "দেবহাটা",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "কুষ্টিয়া সদর, কুষ্টিয়া।",
+    "email": "tutul.kushtia7000@gmail.com",
+    "phone": "০১৭১৮-৮৬৮৮৩০"
+  },
+  {
+    "_id": 21,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/Mabila-Rahman-245x300.jpeg",
+    "name": "মাবিলা রহমান",
+    "title": "সহকারী পরিচালক",
+    "department": "শারীরিক শিক্ষা",
+    "joinDate": "০৯-১১-২০১২",
+    "permanentAddress": {
+      "village": "পাটকেলঘাটা",
+      "post-office": "পাটকেলঘাটা",
+      "upazila": "তালা",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "কুষ্টিয়া শহর।",
+    "email": "rahmanmabila@gmail.com",
+    "phone": "০১৭১২-৮৫৮১৬৭"
+  },
+  {
+    "_id": 22,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/IMG_20210809_191916-297x300.jpg",
+    "name": "মুহ. মুজাম্মিল হক মোল্লাহ",
+    "title": "সিনিয়র সহকারী শিক্ষক",
+    "department": "ইবি ল্যাব স্কুল অ্যান্ড কলেজ",
+    "joinDate": "০৯-১১-২০১২",
+    "permanentAddress": {
+      "village": "মহিশকুড়",
+      "post-office": "মহিশকুড়",
+      "upazila": "আশাশুনি",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "",
+    "email": "",
+    "phone": "০১৭১৮-৭২৪৬৭৯"
+  },
+  {
+    "_id": 23,
+    "img": "https://iusatkhira.com/wp-content/uploads/2021/08/IMG_20210811_232040-237x300.jpg",
+    "name": "এনায়েতুন পারভীন",
+    "title": "সিনিয়র সহকারী শিক্ষক",
+    "department": "ইবি ল্যাব স্কুল অ্যান্ড কলেজ",
+    "joinDate": "০৯-১১-২০১২",
+    "permanentAddress": {
+      "village": "ছনকা",
+      "post-office": "ঘোনা",
+      "upazila": "সাতক্ষীরা সদর",
+      "district": "সাতক্ষীরা"
+    },
+    "currentAddress": "কুষ্টিয়া সদর, কুষ্টিয়া।",
+    "email": "",
+    "phone": "০১৭২৮-৬১৮৮৪০৭"
+  }
+]
